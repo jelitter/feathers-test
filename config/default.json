@@ -9,10 +9,10 @@
   "mssql": {
     "client": "mssql",
     "connection": {
-      "host": "liquidityprotoype.database.windows.net",
-      "user": "nuarca",
-      "password": "SouthMall051",
-      "database": "dbo.Scenarios",
+      "host": "HOST",
+      "user": "USER",
+      "password": "PASSWORD",
+      "database": "DATABASE",
       "options": {
         "encrypt": true
       }
