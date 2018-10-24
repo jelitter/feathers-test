@@ -36,9 +36,10 @@
     "@feathersjs/socketio": "^3.2.6",
     "compression": "^1.7.3",
     "cors": "^2.8.4",
+    "feathers-knex": "^3.3.0",
     "helmet": "^3.14.0",
     "knex": "^0.15.2",
-    "mssql": "^4.2.2",
+    "mssql": "4.1.0",
     "serve-favicon": "^2.5.0",
     "winston": "^3.1.0"
   },

@@ -8,6 +8,14 @@
   },
   "mssql": {
     "client": "mssql",
-    "connection": "mssql://nuarca:SouthMall051@liquidityprotoype.database.windows.net:1433/dbo.Scenarios"
+    "connection": {
+      "host": "liquidityprotoype.database.windows.net",
+      "user": "nuarca",
+      "password": "SouthMall051",
+      "database": "dbo.Scenarios",
+      "options": {
+        "encrypt": true
+      }
+    }
   }
 }
